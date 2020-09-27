@@ -32,3 +32,12 @@ export async function deleteLocalFiles(files:Array<string>){
         fs.unlinkSync(file);
     }
 }
+
+
+export async function deleteLocalFilesWithDir(dir: string, files:Array<string>){
+    for( let file of files ) {
+
+        console.log('deleteLocalFiles() file: ', dir + '/' + file);
+        fs.unlinkSync(dir + '/' + file);
+    }
+}
