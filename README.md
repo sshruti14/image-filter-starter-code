@@ -4,7 +4,7 @@ Udagram is a simple cloud application developed alongside the Udacity Cloud Engi
 
 To test the Image Filter API ,kindly click on the below link
 
-[IMAGE FILTER API LINK](http://image-filter-starter-code-dev22.us-east-2.elasticbeanstalk.com/filteredimage?image_url=https://images.pexels.com/photos/414612/pexels-photo-414612.jpeg)
+[IMAGE FILTER API LINK](http://image-filter-starter-code-dev-dev.ca-central-1.elasticbeanstalk.com/filteredimage?image_url=https://upload.wikimedia.org/wikipedia/commons/b/bd/Golden_tabby_and_white_kitten_n01.jpg)
 ## Tasks
 
 ### Setup Node Environment
